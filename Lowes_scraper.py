@@ -1,4 +1,3 @@
-#-----VED SHAH, YASH BHAGWANI
 import re
 import json
 import csv
