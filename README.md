@@ -1,5 +1,5 @@
 --------------------------------------------- LOWES SCRAPER README ----------------------------------
-                                    CREADTED BY - VED SHAH, YASH BHAGWANI 
+                                  
 
 In order to use Lowes_scraper.py, you need to follow the steps below.
 
